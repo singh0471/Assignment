@@ -14,3 +14,4 @@ function sumOfFibonacci() {
 }
 
 console.log(`Sum of Fibonacci series up to 5000 is: ${sumOfFibonacci()}`);
+console.log("fibonnaci")
